@@ -41,7 +41,7 @@
     {
       id: 'palladium_ore',
       lang: {
-        en_us: 'palladium Ore',
+        en_us: 'Palladium Ore',
       },
       block_id: [
         'galosphere:palladium_ore',
